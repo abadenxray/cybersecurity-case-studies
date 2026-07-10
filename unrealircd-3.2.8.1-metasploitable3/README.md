@@ -1,3 +1,4 @@
+<img width="2580" height="1664" alt="Attach Chain Summary" src="https://github.com/user-attachments/assets/d81a28ad-581d-4885-8e9e-5dd3dfd4b49c" />
 # UnrealIRCd 3.2.8.1 Penetration Testing Case Study
 
 ## Overview
@@ -47,5 +48,5 @@ The full report is available in PDF format:
 This project was conducted in a controlled laboratory environment using Metasploitable3. It is intended for educational, research, and cybersecurity awareness purposes only.
 
 No testing was conducted against production systems, public networks, or third-party assets without authorization.
-<img width="2580" height="1664" alt="Attach Chain Summary" src="https://github.com/user-attachments/assets/d81a28ad-581d-4885-8e9e-5dd3dfd4b49c" />
+
 
