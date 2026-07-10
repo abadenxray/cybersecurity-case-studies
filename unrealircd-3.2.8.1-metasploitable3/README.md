@@ -40,7 +40,7 @@ The testing process includes:
 
 The full report is available in PDF format:
 
-./UnrealIRCd-Pentest-Case-Study.pdf
+./Muhammad-Ganjar-Maulana-UnrealIRCd-Pentest-Case-Study.pdf
 
 ## Disclaimer
 
